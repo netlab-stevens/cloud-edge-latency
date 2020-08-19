@@ -9,4 +9,5 @@ Batyr Charyyev, Engin Arslan, and Mehmet Hadi Gunes
 **Please contact:**
 <br/>
 bcharyye@stevens.edu 
-bcharyyev.com
+<br/>
+https://bcharyyev.com/
