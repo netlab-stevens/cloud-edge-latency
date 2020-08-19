@@ -1,5 +1,9 @@
 # cloud-edge-latency
 
+Contains latency measurements from 8,456 RipeAtlas nodes (end-users) to 6,341 Akamai edge servers and 69 cloud locations. 
+
+
+
 **Please Cite as:**
 <br/>
 Batyr Charyyev, Engin Arslan, and Mehmet Hadi Gunes
